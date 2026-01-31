@@ -1,4 +1,4 @@
-# Linear Regression From Scratch + Applications
+# Regression Projects and Applications
 
 ## Todo:
 - Seaborn plots
